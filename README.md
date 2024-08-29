@@ -14,7 +14,7 @@ here](https://github.com/benfred/py-spy?tab=readme-ov-file#when-do-you-need-to-r
 First, you need to register the extension:
 
 ```python
-%load_ext ipython-pyspy
+%load_ext ipython_pyspy
 ```
 
 Then, you can profile an arbitrary cell like:
